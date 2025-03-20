@@ -3,6 +3,8 @@ Data Visualization attempt on P5.js by loading data from Json File
 
 I wanted to create linear plot of countries where nobel-prize laureates were born. Based on the data, I made a plot of top 25 countries that have produced the most nobel-prize laureates. Data was taken from : https://api.nobelprize.org/v1/laureate.json
 
+[P5.js Sketch Link](https://editor.p5js.org/map.gamedev.ubi/sketches/TjjnKYgQy)
+
 ## Code:
 ```
 let laureates_data_arr = [];
@@ -212,6 +214,3 @@ class LaureateData{
 }
 
 ```
-
-## P5 Sketch Link:
-[Sketch Link](https://editor.p5js.org/map.gamedev.ubi/sketches/TjjnKYgQy)
